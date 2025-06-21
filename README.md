@@ -32,7 +32,7 @@
 
 ![Wiring View](./wiring-view.jpg)  
 ![Active-arduino-setup](./active-arduino-setup.jpg)  
-![pir sensor connection](./pir-sensor-connection.jpg)
+![pir motion sensor](./pir-motion-sensor.jpg)
 
 ##Demo video
 [Watch demo here]
