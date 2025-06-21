@@ -34,6 +34,11 @@
 ![LED Working](./working-led.jpg)  
 ![Full Circuit Setup](./circuit-setup.jpg)
 
+##Demo video
+[Watch demo here]
+https://drive.google.com/file/d/1hLQyUgruamgVeM0B9_0WkgNgaUgMOnVf/view?usp=sharing
+NOTE:THE LED OUTPUT IS SHOWN WORKING IN THE DEMO. BUZZER LOGIC IS IMPLEMENTED IN CODE BUT MAY NOT BE HEARD IN THE CLIP DUE TO RECORDING ENVIROMENT.
+
 ---
 
 ## 💻 Code Snapshot
