@@ -31,8 +31,8 @@
 ## 📸 Images
 
 ![Wiring View](./wiring-view.jpg)  
-![LED Working](./working-led.jpg)  
-![Full Circuit Setup](./circuit-setup.jpg)
+![Active-arduino-setup](./active-arduino-setup.jpg)  
+![uv sensor connection](./uv-sensor-connection.jpg)
 
 ##Demo video
 [Watch demo here]
